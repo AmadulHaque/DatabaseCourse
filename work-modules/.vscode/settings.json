@@ -1,0 +1,19 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "db_connenct",
+            "group": "test",
+            "database": "blog_db",
+            "username": "root",
+            "password": "1234"
+        }
+    ]
+}
